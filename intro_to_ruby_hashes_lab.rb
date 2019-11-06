@@ -26,8 +26,7 @@ def monopoly_with_third_tier
         :one => 1,
 				:two => 1,
 				:three => 1,
-				:four => 1,
-
+				:four => 1
 			}
 				}
 	}
